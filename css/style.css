@@ -1,0 +1,36 @@
+.fon{
+  position: absolute;
+  width: 100%;
+  height: auto;
+  left: 0px;
+  top: 70px;
+  background: url(img/fon.png);
+  background-size: cover;
+  z-index: -1;
+  }
+
+.color-icon{
+  color:black;
+}
+
+.textcenter{
+  text-align: center;
+}
+
+.top{
+  top: 15px;
+}
+
+.fonttop{
+  top: 12px;
+  font-size: 13px;
+  line-height: 1.2;
+  left: 90%;
+}
+
+.footerleft{
+  left: 20%;
+}
+.footerright{
+  left: 90%;
+}
